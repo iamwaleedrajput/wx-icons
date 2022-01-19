@@ -1,3 +1,3 @@
-import WxFbO from "./wx-fb-o";
+import WxFacebook from "./WxFacebook";
 
-export { WxFbO };
+export { WxFacebook };
