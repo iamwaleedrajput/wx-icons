@@ -38,5 +38,17 @@ export default function App() {
 }
 
 
-```
+```js
 
+for Instagram
+
+import React from 'react';
+import WxIntagram from './lib/WxIntagram';
+
+function App() {
+  return <WxIntagram size={20}/>;
+}
+
+export default App;
+
+```
