@@ -65,3 +65,16 @@ function App() {
 export default App;
 
 ```
+```
+
+import React from 'react';
+import WxApple from './lib/WxApple';
+
+
+function App() {
+  return <WxApple size={40} color='#FF5733'/>;
+}
+
+export default App;
+
+```
