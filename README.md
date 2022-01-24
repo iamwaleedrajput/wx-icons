@@ -82,3 +82,27 @@ export default function App() {
   return <WxMenu size={20} color='#4267B2'/>;
 }
 ```
+```js
+
+import React from 'react';
+import WxMusic from 'wx-icons';
+
+function App() {
+  return <WxMusic color='' size={40}/>;
+}
+
+export default App;
+
+```
+
+```js
+import React from 'react';
+import WxTwitch from 'wx-icons';
+
+function App() {
+  return <WxTwitch color='' size ={40}/>;
+}
+
+export default App;
+
+```

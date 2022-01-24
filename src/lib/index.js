@@ -5,6 +5,9 @@ import WxTwitter from "./WxTwitter";
 import WxInstagram from "./WxInstagram";
 import WxApple from "./WxApple";
 import WxGithub from "./WxGithub";
+import WxMusic from './WxMusic'
+import WxTwitch from "./WxTwitch";
+
 
 export {
   WxFacebook,
@@ -14,4 +17,6 @@ export {
   WxMenu,
   WxApple,
   WxGithub,
+  WxMusic,
+  WxTwitch
 };
