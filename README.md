@@ -60,6 +60,8 @@ export default App;
 ```
 
 ```js
+for Apple
+
 import React from "react";
 import WxApple from "./lib/WxApple";
 
