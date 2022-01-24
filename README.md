@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-```
-
+```js
 for google
 
 import React from "react";
@@ -10,11 +9,9 @@ import {WxGoogle} from 'wx-icons'
 export default function App() {
   return <WxGoogle size={20}/>;
 }
-
 ```
 
-```
-
+```js
 for facebook
 
 import React from "react";
@@ -23,11 +20,9 @@ import {WxFacebook} from 'wx-icons'
 export default function App() {
   return <WxFacebook size={20} color='#4267B2'/>;
 }
-
 ```
 
-```
-
+```js
 for Twitter
 
 import React from "react";
@@ -36,23 +31,22 @@ import WxTwitter from "./lib/WxTwitter";
 export default function App() {
   return <WxTwitter color='#00ACEE' size={20}/>;
 }
-
+```
 
 ```js
-
 for Instagram
 
 import React from 'react';
-import WxIntagram from './lib/WxIntagram';
+import WxInstagram from './lib/WxInstagram';
 
 function App() {
-  return <WxIntagram size={20}/>;
+  return <WxInstagram size={20}/>;
 }
 
 export default App;
+```
 
 ```js
-
 for GitHub
 
 import React from 'react';
@@ -63,18 +57,15 @@ function App() {
 }
 
 export default App;
-
-```
 ```
 
-import React from 'react';
-import WxApple from './lib/WxApple';
-
+```js
+import React from "react";
+import WxApple from "./lib/WxApple";
 
 function App() {
-  return <WxApple size={40} color='#FF5733'/>;
+  return <WxApple size={40} color="#FF5733" />;
 }
 
 export default App;
-
 ```
