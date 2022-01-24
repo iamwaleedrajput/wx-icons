@@ -51,4 +51,17 @@ function App() {
 
 export default App;
 
+```js
+
+for GitHub
+
+import React from 'react';
+import WxGithub from './lib/WxGithub';
+
+function App() {
+  return <WxGithub size={40} color='#000000'/>;
+}
+
+export default App;
+
 ```
