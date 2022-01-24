@@ -26,7 +26,7 @@ export default function App() {
 for Twitter
 
 import React from "react";
-import WxTwitter from "./lib/WxTwitter";
+import WxTwitter from "wx-icons";
 
 export default function App() {
   return <WxTwitter color='#00ACEE' size={20}/>;
@@ -37,7 +37,7 @@ export default function App() {
 for Instagram
 
 import React from 'react';
-import WxInstagram from './lib/WxInstagram';
+import WxInstagram from 'wx-icons';
 
 function App() {
   return <WxInstagram size={20}/>;
@@ -50,7 +50,7 @@ export default App;
 for GitHub
 
 import React from 'react';
-import WxGithub from './lib/WxGithub';
+import WxGithub from 'wx-icons';
 
 function App() {
   return <WxGithub size={40} color='#000000'/>;
@@ -63,11 +63,22 @@ export default App;
 for Apple
 
 import React from "react";
-import WxApple from "./lib/WxApple";
+import WxApple from "wx-icons";
 
 function App() {
   return <WxApple size={40} color="#FF5733" />;
 }
 
 export default App;
+```
+
+```js
+for facebook
+
+import React from "react";
+import {WxMenu} from 'wx-icons'
+
+export default function App() {
+  return <WxMenu size={20} color='#4267B2'/>;
+}
 ```

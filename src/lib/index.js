@@ -4,5 +4,14 @@ import WxMenu from "./WxMenu";
 import WxTwitter from "./WxTwitter";
 import WxInstagram from "./WxInstagram";
 import WxApple from "./WxApple";
+import WxGithub from "./WxGithub";
 
-export { WxFacebook, WxTwitter, WxInstagram, WxGoogle, WxMenu, WxApple };
+export {
+  WxFacebook,
+  WxTwitter,
+  WxInstagram,
+  WxGoogle,
+  WxMenu,
+  WxApple,
+  WxGithub,
+};
