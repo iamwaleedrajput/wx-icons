@@ -1,5 +1,6 @@
 import WxFacebook from "./WxFacebook";
 import WxGoogle from "./WxGoogle";
 import WxMenu from "./WxMenu";
+import WxTwitter from "./WxTwitter";
 
-export { WxFacebook, WxGoogle, WxMenu };
+export { WxFacebook,WxTwitter, WxGoogle, WxMenu };

@@ -25,3 +25,18 @@ export default function App() {
 }
 
 ```
+
+```
+
+for Twitter
+
+import React from "react";
+import WxTwitter from "./lib/WxTwitter";
+
+export default function App() {
+  return <WxTwitter color='#00ACEE' size={20}/>;
+}
+
+
+```
+
