@@ -1,13 +1,13 @@
 {
-  "name": "wx-icons",
+  "name": "@wxui/icons",
   "description": "icons for react js",
-  "author": "waleed rajput",
+  "author": "Waleed Rajput & Zohaib Khan",
   "keywords": [
     "react",
     "icons",
     "ui"
   ],
-  "version": "0.2.7",
+  "version": "0.2.9",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",

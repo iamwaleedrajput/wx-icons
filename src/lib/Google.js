@@ -1,6 +1,6 @@
 import React from "react";
 
-function WxGoogle(props) {
+function Google(props) {
   return (
     <svg
       stroke="currentColor"
@@ -38,4 +38,4 @@ function WxGoogle(props) {
   );
 }
 
-export default WxGoogle;
+export default Google;

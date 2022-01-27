@@ -1,7 +1,7 @@
 import React from "react";
 import "./style/Style.css";
 
-function WxInstagram(props) {
+function Instagram(props) {
   return (
     <div
       className="instagram"
@@ -20,4 +20,4 @@ function WxInstagram(props) {
   );
 }
 
-export default WxInstagram;
+export default Instagram;

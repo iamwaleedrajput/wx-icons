@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function WxFacebook(props) {
+export default function Facebook(props) {
   return (
     <svg
       fill="currentColor"

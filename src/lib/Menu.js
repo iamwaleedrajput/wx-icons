@@ -1,6 +1,6 @@
 import React from "react";
 
-function WxMenu(props) {
+function Menu(props) {
   return (
     <svg
       stroke="currentColor"
@@ -20,4 +20,4 @@ function WxMenu(props) {
   );
 }
 
-export default WxMenu;
+export default Menu;
