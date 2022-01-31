@@ -10,8 +10,8 @@ function Google(props) {
       y="0px"
       viewBox="0 0 48 48"
       enable-background="new 0 0 48 48"
-      height={props.size ? props.size : 20}
-      width={props.size ? props.size : 20}
+      height={sizeHandler(props)}
+      width={sizeHandler(props)}
     >
       <path
         fill="#FFC107"

@@ -1,7 +1,9 @@
 import React from 'react';
+import { sizeHandler } from './utils/utils';
+
 
 export default function CloudDown(props) {
-  return <svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 30 30" height={props.size ? props.size : 20} width={props.size ? props.size : 20}><path d="M4.61,16.88c0,1.34,0.47,2.48,1.4,3.44c0.93,0.96,2.07,1.47,3.4,1.53c0.11,0,0.17-0.06,0.17-0.17v-1.34
+  return <svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 30 30" height={sizeHandler(props)} width={sizeHandler(props)}><path d="M4.61,16.88c0,1.34,0.47,2.48,1.4,3.44c0.93,0.96,2.07,1.47,3.4,1.53c0.11,0,0.17-0.06,0.17-0.17v-1.34
   c0-0.12-0.06-0.18-0.17-0.18c-0.86-0.04-1.59-0.38-2.19-1.02c-0.6-0.64-0.9-1.39-0.9-2.26c0-0.83,0.28-1.55,0.85-2.17
   c0.57-0.62,1.27-0.97,2.1-1.07L9.8,13.6c0.13,0,0.2-0.06,0.2-0.17l0.08-0.55c0.1-1.08,0.55-1.99,1.36-2.71
   c0.81-0.73,1.76-1.09,2.86-1.09c1.09,0,2.04,0.36,2.86,1.09c0.82,0.73,1.28,1.63,1.4,2.71l0.07,0.58c0,0.11,0.06,0.17,0.17,0.17

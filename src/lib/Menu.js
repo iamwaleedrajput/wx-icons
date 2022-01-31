@@ -9,8 +9,8 @@ function Menu(props) {
       viewBox="0 0 24 24"
       stroke-linecap="round"
       stroke-linejoin="round"
-      height={props.size ? props.size : 20}
-      width={props.size ? props.size : 20}
+      height={sizeHandler(props)}
+      width={sizeHandler(props)}
       xmlns="http://www.w3.org/2000/svg"
     >
       <line x1="3" y1="12" x2="21" y2="12"></line>

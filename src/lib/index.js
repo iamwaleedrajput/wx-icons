@@ -31,6 +31,13 @@ import Database from "./Database";
 import Html5 from "./Html5";
 import Python from "./Python";
 import Mail from "./Mail";
+import Css3 from "./Css3";
+import File from "./File";
+import Gitlab from "./Gitlab";
+import Like from "./Like";
+import Dislike from "./Dislike";
+import AlertCircle from "./AlertCircle";
+import Phone from "./Phone";
 
 export {
   Facebook,
@@ -65,7 +72,14 @@ export {
   Database,
   Html5,
   Python,
-  Mail
+  Mail,
+  Css3,
+  File,
+  Gitlab,
+  Like,
+  Dislike,
+  AlertCircle,
+  Phone
 
   
 };

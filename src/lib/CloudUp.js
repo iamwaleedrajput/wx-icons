@@ -1,7 +1,9 @@
 import React from 'react';
+import { sizeHandler } from './utils/utils';
+
 
 export default function CloudUp(props) {
-  return <svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 30 30" height={props.size ? props.size : 20} width={props.size ? props.size : 20}><path d="M4.64,16.88c0,1.33,0.46,2.48,1.39,3.43c0.93,0.96,2.06,1.47,3.4,1.53c0.11,0,0.17-0.06,0.17-0.17v-1.33
+  return <svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 30 30" height={sizeHandler(props)} width={sizeHandler(props)}><path d="M4.64,16.88c0,1.33,0.46,2.48,1.39,3.43c0.93,0.96,2.06,1.47,3.4,1.53c0.11,0,0.17-0.06,0.17-0.17v-1.33
   c0-0.12-0.06-0.19-0.17-0.19c-0.86-0.04-1.58-0.38-2.18-1.02s-0.9-1.39-0.9-2.25c0-0.82,0.28-1.54,0.84-2.16
   c0.56-0.61,1.26-0.97,2.1-1.07h0.53c0.13,0,0.2-0.06,0.2-0.18l0.06-0.57c0.11-1.08,0.57-1.99,1.38-2.72s1.77-1.1,2.86-1.1
   c1.08,0,2.03,0.37,2.85,1.1c0.82,0.73,1.28,1.64,1.39,2.72l0.08,0.57c0,0.12,0.06,0.18,0.18,0.18h1.61c0.89,0,1.66,0.32,2.31,0.96
