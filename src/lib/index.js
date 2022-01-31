@@ -19,6 +19,18 @@ import Briefcase from "./Briefcase";
 import Cloud from "./Cloud";
 import CloudUp from "./CloudUp";
 import CloudDown from "./CloudDown";
+import Bookmark from "./Bookmark";
+import Bluetooth from "./Bluetooth";
+import Calendar from "./Calendar";
+import Chrome from "./Chrome";
+import Amazon from "./Amazon";
+import AmazonPay from "./AmazonPay";
+import Bell from "./Bell";
+import Youtube from "./Youtube";
+import Database from "./Database";
+import Html5 from "./Html5";
+import Python from "./Python";
+import Mail from "./Mail";
 
 export {
   Facebook,
@@ -41,7 +53,19 @@ export {
   Briefcase,
   Cloud,
   CloudUp,
-  CloudDown
+  CloudDown,
+  Bookmark,
+  Bluetooth,
+  Calendar,
+  Chrome,
+  Amazon,
+  AmazonPay,
+  Bell,
+  Youtube,
+  Database,
+  Html5,
+  Python,
+  Mail
 
   
 };
