@@ -38,6 +38,12 @@ import Like from "./Like";
 import Dislike from "./Dislike";
 import AlertCircle from "./AlertCircle";
 import Phone from "./Phone";
+import User from "./User";
+import Male from "./Male";
+import Female from "./Female";
+import At from "./At";
+import FingerPrint from "./FingerPrint";
+import PersonAdd from "./PersonAdd";
 
 export {
   Facebook,
@@ -79,7 +85,13 @@ export {
   Like,
   Dislike,
   AlertCircle,
-  Phone
+  Phone,
+  User,
+  Male,
+  Female,
+  At,
+  FingerPrint,
+  PersonAdd
 
   
 };
