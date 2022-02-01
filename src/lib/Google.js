@@ -3,6 +3,7 @@ import { sizeHandler } from "./utils/utils";
 
 function Google(props) {
   return (
+    
     <svg
       stroke="currentColor"
       stroke-width="0"

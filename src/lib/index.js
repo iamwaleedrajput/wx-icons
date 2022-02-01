@@ -45,6 +45,11 @@ import At from "./At";
 import FingerPrint from "./FingerPrint";
 import PersonAdd from "./PersonAdd";
 import Barcode from "./Barcode";
+import Bag from "./Bag";
+import Earbuds from "./Earbuds";
+import IShare from "./IShare";
+import Share from "./Share";
+import Code from "./Code";
 
 export {
   Facebook,
@@ -93,7 +98,12 @@ export {
   At,
   FingerPrint,
   PersonAdd,
-  Barcode
+  Barcode,
+  Bag,
+  Earbuds,
+  IShare,
+  Share,
+  Code
 
   
 };
