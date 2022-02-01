@@ -1,4 +1,5 @@
 import React from "react";
+import { sizeHandler } from "./utils/utils";
 
 function Twitter(props) {
   return (

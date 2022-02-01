@@ -44,6 +44,7 @@ import Female from "./Female";
 import At from "./At";
 import FingerPrint from "./FingerPrint";
 import PersonAdd from "./PersonAdd";
+import Barcode from "./Barcode";
 
 export {
   Facebook,
@@ -91,7 +92,8 @@ export {
   Female,
   At,
   FingerPrint,
-  PersonAdd
+  PersonAdd,
+  Barcode
 
   
 };
