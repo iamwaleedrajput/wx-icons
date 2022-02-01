@@ -50,6 +50,7 @@ import Earbuds from "./Earbuds";
 import IShare from "./IShare";
 import Share from "./Share";
 import Code from "./Code";
+import Dropbox from "./Dropbox";
 
 export {
   Facebook,
@@ -103,7 +104,8 @@ export {
   Earbuds,
   IShare,
   Share,
-  Code
+  Code,
+  Dropbox
 
   
 };
