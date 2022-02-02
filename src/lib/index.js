@@ -89,6 +89,16 @@ import Map from "./components/Map";
 import MapMarker from "./components/MapMarker";
 import Delete from "./components/Delete";
 import PersonRemove from "./components/PersonRemove";
+import Logout from "./components/Logout";
+import Login from "./components/Login";
+import Power from "./components/Power";
+import PowerCycle from "./components/PowerCycle";
+import PowerReset from "./components/PowerReset";
+import PowerShell from "./components/PowerShell";
+import Key from "./components/Key";
+import Shield from "./components/Shield";
+import Monitor from "./components/Monitor";
+import Mouse from "./components/Mouse";
 
 export {
   Facebook,
@@ -181,7 +191,17 @@ export {
   Map,
   MapMarker,
   Delete,
-  PersonRemove
+  PersonRemove,
+  Logout,
+  Login,
+  Power,
+  PowerCycle,
+  PowerReset,
+  PowerShell,
+  Key,
+  Shield,
+  Monitor,
+  Mouse
   
   
 };
