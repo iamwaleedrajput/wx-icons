@@ -75,6 +75,8 @@ import GoogleHangout from "./components/GoogleHangout";
 import GoogleEarth from "./components/GoogleEarth";
 import GoogleKeep from "./components/GoogleKeep";
 import GoogleChat from "./components/GoogleChat";
+import GoogleMeet from "./components/GoogleMeet";
+import GoogleClassroom from "./components/GoogleClassroom";
 
 export {
   Facebook,
@@ -153,7 +155,9 @@ export {
   GoogleHangout,
   GoogleEarth,
   GoogleKeep,
-  GoogleChat
+  GoogleChat,
+  GoogleMeet,
+  GoogleClassroom
 
   
 };
