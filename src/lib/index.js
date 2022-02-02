@@ -78,6 +78,7 @@ import GoogleChat from "./components/GoogleChat";
 import GoogleMeet from "./components/GoogleMeet";
 import GoogleClassroom from "./components/GoogleClassroom";
 import GoogleSheets from "./components/GoogleSheets";
+import GoogleCardboard from "./components/GoogleCardboard";
 
 export {
   Facebook,
@@ -159,7 +160,7 @@ export {
   GoogleChat,
   GoogleMeet,
   GoogleClassroom,
-  GoogleSheets
-
+  GoogleSheets,
+  GoogleCardboard
   
 };
