@@ -74,6 +74,7 @@ import GoogleTranslator from "./components/GoogleTranslator";
 import GoogleHangout from "./components/GoogleHangout";
 import GoogleEarth from "./components/GoogleEarth";
 import GoogleKeep from "./components/GoogleKeep";
+import GoogleChat from "./components/GoogleChat";
 
 export {
   Facebook,
@@ -151,7 +152,8 @@ export {
   GoogleTranslator,
   GoogleHangout,
   GoogleEarth,
-  GoogleKeep
+  GoogleKeep,
+  GoogleChat
 
   
 };
