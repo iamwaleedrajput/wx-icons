@@ -63,6 +63,15 @@ import Docker from "./Docker";
 import Cart from "./Cart";
 import AppleAppStore from "./AppleAppStore";
 import CreditCard from "./CreditCard";
+import SdCard from "./SdCard";
+import GoogleDrive from "./GoogleDrive";
+import GoogleAssistant from "./GoogleAssistant";
+import GoogleWallet from "./GoogleWallet";
+import GoogleNews from "./GoogleNews";
+import GoogleMaps from "./GoogleMaps";
+import GoogleCast from "./GoogleCast";
+import GoogleTranslator from "./GoogleTranslator";
+import GoogleHangout from "./GoogleHangout";
 
 export {
   Facebook,
@@ -129,7 +138,16 @@ export {
   Docker,
   Cart,
   AppleAppStore,
-  CreditCard
+  CreditCard,
+  SdCard,
+  GoogleDrive,
+  GoogleAssistant,
+  GoogleWallet,
+  GoogleNews,
+  GoogleMaps,
+  GoogleCast,
+  GoogleTranslator,
+  GoogleHangout
 
   
 };
