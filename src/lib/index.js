@@ -72,6 +72,8 @@ import GoogleMaps from "./GoogleMaps";
 import GoogleCast from "./GoogleCast";
 import GoogleTranslator from "./GoogleTranslator";
 import GoogleHangout from "./GoogleHangout";
+import GoogleEarth from "./GoogleEarth";
+import GoogleKeep from "./GoogleKeep";
 
 export {
   Facebook,
@@ -147,7 +149,9 @@ export {
   GoogleMaps,
   GoogleCast,
   GoogleTranslator,
-  GoogleHangout
+  GoogleHangout,
+  GoogleEarth,
+  GoogleKeep
 
   
 };
