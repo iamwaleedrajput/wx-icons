@@ -1,5 +1,5 @@
 # Installations
 
 ```
-npm install @wxui/icons
+npm install wx-icons --save
 ```
