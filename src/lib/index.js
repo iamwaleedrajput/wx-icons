@@ -58,6 +58,11 @@ import GooglePodcast from "./GooglePodcast";
 import GooglePhotos from "./GooglePhotos";
 import Slack from "./Slack";
 import Skype from "./Skype";
+import Whatsapp from "./Whatsapp";
+import Docker from "./Docker";
+import Cart from "./Cart";
+import AppleAppStore from "./AppleAppStore";
+import CreditCard from "./CreditCard";
 
 export {
   Facebook,
@@ -119,7 +124,12 @@ export {
   GooglePodcast,
   GooglePhotos,
   Slack,
-  Skype
+  Skype,
+  Whatsapp,
+  Docker,
+  Cart,
+  AppleAppStore,
+  CreditCard
 
   
 };
