@@ -51,6 +51,13 @@ import IShare from "./IShare";
 import Share from "./Share";
 import Code from "./Code";
 import Dropbox from "./Dropbox";
+import GooglePlay from "./GooglePlay";
+import GooglePlus from "./GooglePlus";
+import GooglePay from "./GooglePay";
+import GooglePodcast from "./GooglePodcast";
+import GooglePhotos from "./GooglePhotos";
+import Slack from "./Slack";
+import Skype from "./Skype";
 
 export {
   Facebook,
@@ -105,7 +112,14 @@ export {
   IShare,
   Share,
   Code,
-  Dropbox
+  Dropbox,
+  GooglePlay,
+  GooglePlus,
+  GooglePay,
+  GooglePodcast,
+  GooglePhotos,
+  Slack,
+  Skype
 
   
 };
