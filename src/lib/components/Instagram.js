@@ -5,9 +5,9 @@ function Instagram(props) {
   return (
     <div
       className="instagram"
-      style={{ height: props.size, width: props.size }}
+      style={{ height: `${props.size}px`, width: `${props.size}px` }}
     >
-      <svg fill="white" viewBox="0 0 24 24">
+      <svg fill="white" viewBox="0 0 24 24" height={`${props.size}px`} width={`${props.size}px`}>
         <g>
           <path fill="none" d="M0 0h24v24H0z"></path>
           <path

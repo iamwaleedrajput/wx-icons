@@ -79,6 +79,16 @@ import GoogleMeet from "./components/GoogleMeet";
 import GoogleClassroom from "./components/GoogleClassroom";
 import GoogleSheets from "./components/GoogleSheets";
 import GoogleCardboard from "./components/GoogleCardboard";
+import GoogleMessage from "./components/GoogleMessage";
+import GoogleCalendar from "./components/GoogleCalendar";
+import GoogleAds from "./components/GoogleAds";
+import GoogleAdSense from "./components/GoogleAdSense";
+import GoogleLens from "./components/GoogleLens";
+import GoogleFit from "./components/GoogleFit";
+import Map from "./components/Map";
+import MapMarker from "./components/MapMarker";
+import Delete from "./components/Delete";
+import PersonRemove from "./components/PersonRemove";
 
 export {
   Facebook,
@@ -161,6 +171,17 @@ export {
   GoogleMeet,
   GoogleClassroom,
   GoogleSheets,
-  GoogleCardboard
+  GoogleCardboard,
+  GoogleMessage,
+  GoogleCalendar,
+  GoogleAds,
+  GoogleAdSense,
+  GoogleLens,
+  GoogleFit,
+  Map,
+  MapMarker,
+  Delete,
+  PersonRemove
+  
   
 };
